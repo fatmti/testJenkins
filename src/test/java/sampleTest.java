@@ -9,12 +9,12 @@ public class sampleTest {
 		int b = 2;
 		assertTrue(a + b == 3);
 	}
-	@Test
+	*/@Test
 	public void simpleTestFail() {
 		int a = 1;
 		int b = 2;
 		assertTrue(a + b == 120);
-	}
+	}*/
 	@Test
 	public void simpleTestPass2() {
 		int a = 100;
