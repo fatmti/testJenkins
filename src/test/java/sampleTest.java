@@ -16,11 +16,11 @@ public class sampleTest {
 		int b = 20;
 		assertTrue(a + b == 120);
 	}
-/*	@Test
+	@Test
 	public void simpleTestFail() {
 		int a = 1;
 		int b = 2;
 		assertTrue(a + b == 120);
-	}*/
+	}
 
 }
